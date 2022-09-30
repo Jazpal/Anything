@@ -1,0 +1,42 @@
+#med{
+    color:blue;
+    margin:20px;
+    font-size:x-large;
+    width: 50%;
+    display:inline-block;
+}
+nav{
+    display: inline-block;
+
+}
+#git{
+    background-color: blue;
+    color: white;
+    padding: 20px 30px;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+section{
+    padding-top: 30px;
+    font-size:xx-large;
+}
+nav a{
+    margin: 20px;
+}
+
+#pet{
+    background-color: blue ;
+    color: white;
+    border-radius:50px;
+    margin-right: 50px;
+    padding:15px;
+}
+
+.down{
+    display:inline-block;
+    width: 30%;
+    color: blue;
+    justify-content: center;
+}

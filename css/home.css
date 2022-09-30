@@ -1,0 +1,36 @@
+#two{
+    background-color: blue;
+    width: 50%;
+}
+
+h1 {
+    background-color: brown;
+    color: white;
+}
+
+#jpl{
+    background-color:aqua;
+    margin:70px;
+
+}
+
+#main{
+    font-size: 30px;
+    background-color: green;
+    border-left:3px solid black;
+    margin:20px 35px 40px 25px;
+    display:inline-block;
+    width: 40%;
+    box-sizing:border-box;
+    padding:5%
+    
+}
+
+nav .navlink {
+    background-color: #00ff00;
+    color: white;
+}
+
+nav{
+    display:inline-block;
+}

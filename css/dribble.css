@@ -1,0 +1,47 @@
+#ten{
+    background-color: blue;
+    color:white;
+    margin:80px;
+    border-radius:35%;
+}
+
+
+#dribble{
+    background-color: white;
+    margin:30px;
+    font-size: 45px;
+    display:inline-block;
+    box-sizing:border-box;
+    width: 40%;
+    font-family:'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    font-variant:small-caps;
+    font: italic, small-caps, 
+}
+
+p{
+    line-height: 30px;
+}
+
+div{
+    background-color: brown;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+nav{
+    display:inline-block;
+    font-size: 25px;
+}
+img{
+    float: left;
+}
+
+nav a{
+    margin: 20px;
+}

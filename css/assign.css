@@ -1,0 +1,39 @@
+nav{
+    display: inline-block;
+    align-items: center;
+    margin: 30px;
+    padding-left: 350px;
+}
+#topmost{
+    text-align: center;
+    font-size: 60px;
+}
+#spec{
+    text-align: center;
+    padding-top: 40px;
+
+}
+#story{
+    height: 200px;
+
+}
+#concept{
+    height: 170px;
+}
+
+
+.flex{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+div{
+    width: 33%;
+    text-align: center;
+    
+}
+nav a{
+    margin: 30px;
+}
